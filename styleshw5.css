@@ -79,3 +79,9 @@ h5 {
     text-align: center;
     background-image: url(img/dewang-gupta-ESEnXckWlLY-unsplash.jpg);
 }
+
+.git-link,
+a[href*="week6"] {
+    color: black;
+
+}
